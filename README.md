@@ -4,8 +4,8 @@ An intern project at Dolojo, aimed at giving assistance to project management fo
 
 Primary Contributors
 ------------
-**Anusha Anandan**
-**Vijay Pratap Singh**
-
+**Anusha Anandan**, 
+**Meenu Vincent**, 
+**Neenu Vincent**
 
 	Started on 27 May 2013
