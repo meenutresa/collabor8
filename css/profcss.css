@@ -1,0 +1,181 @@
+@import "http://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css";
+
+body{
+    background: url(../images/bk2.jpg) no-repeat;
+}
+
+
+
+.nav {
+  
+  width: 1280px;
+  height: 45px;
+  padding: 0;
+  z-index: 5;
+  overflow: hidden;
+  background-color: #BC8F8F;
+  left: 0px;
+  top: 0px;
+
+
+}
+
+.nav .brand {
+
+  font-weight: bold;
+  font-size: 25px;
+  color: #fff;
+  left:30px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .1), 0 0 30px rgba(255, 255, 255, .125);
+
+}
+.container{
+  position: relative;
+  left:50px;
+  top:10px;
+
+}
+.container a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav1{
+  
+  width: 1400px;
+  height: 175px;
+  padding: 0;
+  z-index: 5;
+  overflow: hidden;
+  background-color: #BC8F8F;
+  left: 0px;
+  top: 0px;
+}
+#styl{
+    position:relative;
+    top:20px;
+}
+#pos{
+    position:absolute;
+    left:300px;
+    
+}
+.navsquare{
+    width:auto;
+    padding:5px;
+    height:auto;
+    display:table;      
+}
+
+.navtile1{
+    height:100px;   
+    width:210px;  
+    float:left;
+    margin:0 50px 0 0;
+    padding:2px;
+}
+.navtile2{
+    height:100px;   
+    width:210px;  
+    float:left;
+    margin:0 50px 0 0;
+    padding:2px;
+}
+.mediumtile{
+    width:155px;
+}
+.navtilecolor1{
+    background:#CD0000;
+}
+  
+.navtilecolor2{
+    background:#0ca3d2;  
+}
+.panel{
+    position:absolute;
+    right: -5px;
+    top: 40px;
+    padding:5px;
+   
+         
+}
+.tile{
+    height:655px;   
+    width:280px;  
+    margin-right: -5px;
+    padding:2px;
+    background:#F0F0F0;
+}
+
+.square{
+    position:absolute;
+    left:1047px;
+    width:auto;
+    padding:5px;
+    height:auto;
+    display:table;      
+}
+
+.tile1{
+    position: absolute;
+    top:100px;
+    height:30px;   
+    width:200px;  
+    float:left;
+    margin:0 5px 0 0;
+    padding:2px;
+}
+.title1{
+    position:relative;
+    top:5px;
+    left:65px;
+    font-size: 20px;
+    font-family:"Times New Roman", Times, serif;
+    
+}
+
+.tile2{
+    position: absolute;
+    top:170px;
+    height:30px;   
+    width:200px;
+    float:left;
+    margin:0 5px 0 0;
+    padding:2px;
+}
+.title2{
+    position:relative;
+    top:5px;
+    left:65px;
+    font-size: 20px;
+    font-family:"Times New Roman", Times, serif;
+    
+}
+.tile3{
+    position: absolute;
+    top:240px;
+    height:30px;   
+    width:200px;
+    float:left;
+    margin:0 5px 0 0;
+    padding:2px;
+}
+.title3{
+    position:relative;
+    top:5px;
+    left:65px;
+    font-size: 20px;
+    font-family:"Times New Roman", Times, serif;
+    
+}
+
+.tilecolor1{
+    background:#F0F0F0;
+}
+.tilecolor2{
+    background:#F0F0F0;
+}
+.tilecolor3{
+    background:#F0F0F0;
+}
+  

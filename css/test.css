@@ -1,0 +1,197 @@
+@font-face { font-family: Century; src: url('GOTHIC.ttf'); }
+  
+#pos{
+    position:absolute;
+    left:750px;
+    top:220px;
+}
+#pos1{
+    position:absolute;
+    left:150px;
+    top:220px;
+}
+body{
+    font-family: Century;
+    background: url(../images/bk1.jpg) no-repeat;
+    color:#fff;
+    padding:20px;
+}
+h1{
+    position:absolute;
+    left:150px;
+    top:50px;
+    font-size: 55px;
+    font-family:Impact, Charcoal, sans-serif;
+    letter-spacing: 2px;
+}
+
+#imgs{
+    position: absolute;
+    left:125px;
+    top:115px;
+}
+.til{
+    width:auto;
+    height:auto; 
+        
+}
+  
+.square{
+    width:auto;
+    padding:5px;
+    height:auto;
+    display:table;      
+}
+
+
+
+.tile{
+    height:85px;   
+    width:210px;  
+    float:left;
+    margin:0 5px 0 0;
+    padding:2px;
+}
+.tile1{
+    height:85px;   
+    width:210px;  
+    float:left;
+    margin:0 5px 0 0;
+    padding:2px;
+}
+.tile2{
+    height:85px;   
+    width:210px;  
+    float:left;
+    margin:0 5px 0 0;
+    padding:2px;
+}
+.tile3{
+    height:100px;   
+    width:400px;  
+    float:left;
+    margin:0 5px 0 0;
+    padding:2px;
+}
+.tile4{
+    height:100px;   
+    width:135px;  
+    float:left;
+    margin:0 5px 0 0;
+    padding:2px;
+}
+.tile5{
+    height:100px;   
+    width:210px;  
+    float:left;
+    margin:0 5px 0 0;
+    padding:2px;
+}
+.tile6{
+    height:100px;   
+    width:210px;  
+    float:left;
+    margin:0 5px 0 0;
+    padding:2px;
+}
+.tile7 img{
+    height:190px;   
+    width:545px;  
+    float:left;
+    display: none;
+    margin:0 5px 0 0;
+    padding:2px;
+}
+.tile7 img:first-child {
+display: block;
+}
+.mediumtile{
+    width:155px;
+}
+.bigtile{
+    height:200px;   
+    width:320px;  
+    float:left;
+    position:relative;
+    margin:0 5px 0 0;
+    padding:2px;
+}
+  
+.smalltile{
+    width:100px;
+}
+.lartile{
+    width:320px;
+}
+
+
+#styl{
+    position:relative;
+    top:20px;
+}
+.title1{
+    position:relative;
+    top:30px;
+    left:120px;
+    font-size: 25px;
+    font-family:"Times New Roman", Times, serif;
+    
+}
+.title2{
+    position:relative;
+    top:35px;
+    left:60px;
+    font-size: 25px;
+    font-family:"Times New Roman", Times, serif;
+    color: #fff;
+    
+}
+.title3{
+    position:relative;
+    top:25px;
+    left:10px;
+    font-size: 22px;
+    text-align: center;
+    font-family:"Times New Roman", Times, serif;
+    color: #fff;
+    
+}
+
+.formtitle{
+    position:relative;
+    top:-22px;
+    left:120px;
+    font-size: 25px;
+    font-family:"Times New Roman", Times, serif;
+    
+}
+
+
+.tilecolor1{
+    background:#CD0000;
+}
+  
+.tilecolor2{
+    background:#0ca3d2;  
+}
+  
+.tilecolor3{
+    background:#00549E;
+}
+  
+.tilecolor4{
+    background-color: #2E8B57;
+}
+.tilecolor5{
+    background-color: #C0C0C0;
+}
+.tilecolor6{
+    background:#778899;
+}
+  
+.tilecolor7{
+    background:#DA70D6;  
+}
+.tilecolor8{
+    background:url(../images/cool.jpg);  
+}

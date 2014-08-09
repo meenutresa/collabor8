@@ -1,0 +1,64 @@
+/* CSS Document */
+a{
+color:black;
+text-decoration:none;
+}
+.project-box{
+height:150px;
+width:150px;
+background:#00a2e8;
+line-height:10px;
+}
+.project-container{
+width:900px;
+height:120px;
+padding:20px;
+font-size:20px;
+font-family:Calibri;
+}
+.project-container img{
+float:right;
+top:19px;
+}
+.project-container:hover{
+background:grey;
+}
+.activity-container{
+word-wrap:break-word;
+padding:10px;
+font-family:Calibri;
+font-size:20px;
+}
+.activity-container img{
+height:25px;
+width:25px;
+}
+/*.activity-container:hover{
+background:grey;
+}*/
+.btn1{
+		
+	border:1px solid #0ca3d2;
+	background-color:#0ca3d2;
+	
+	color:#fff;
+	font-family:'Verdana',Arial,sans-serif;
+	font-size:12px;
+	
+	padding:7px;
+}
+.up{
+	
+	width: 5%;	
+	border:1px solid #0ca3d2;
+	background-color:#0ca3d2;
+	
+	color:#fff;
+	font-family:'Verdana',Arial,sans-serif;
+	font-size:12px;
+	
+	padding:7px;
+}
+.up a{
+	color:#fff;
+}
